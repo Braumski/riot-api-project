@@ -1,4 +1,5 @@
-# My first project using an API, I always knew I wanted to use the Riot Games API
+# My first project using an API
+I've been thinking about doing this a long time. I've always wanted to try this API and this will teach me how to use APIs
 
 # React + Vite
 
